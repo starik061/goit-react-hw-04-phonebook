@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { ContactsListItem } from './ContactListItem';
 
 export const ContactsList = ({ contacts, onDeleteButton }) => {
